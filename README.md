@@ -242,7 +242,7 @@
 <option value="">NAKUL RAGHUWANSHI</option>
 <option value="">ANIMESH   HOTA</option>
 </select>
-</br>
+<br>
 <button type="submit"> 
         submit
     </button> 
