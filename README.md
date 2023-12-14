@@ -1,9 +1,7 @@
 
 <html>
 
-<head> 
-	<title> IITD {unofficial} </title>
-<style>
+<head>
 	body{
 		background-color:#EEDEC5;
 		color: black;}
@@ -244,7 +242,7 @@
 <option value="">NAKUL RAGHUWANSHI</option>
 <option value="">ANIMESH   HOTA</option>
 </select>
-
+</br>
 <button type="submit"> 
         submit
     </button> 
