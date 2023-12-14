@@ -1,5 +1,4 @@
-# mutualite.github.io
-<!DOCTYPE html>
+
 <html>
 
 <head> 
@@ -32,7 +31,7 @@
 <body>
 	<header>
 		<div style= "text-align:center; font-size:80px; font-family:monospace;" >MUTUALITE</div>
-		<div>______________________________________________________________________________________________________________________________________________________________________________________________</div>
+		<div>____________________________________________________________________________________________________________________________________</div>
 	</header>
 
 	<nav class="menu"> 
@@ -111,7 +110,7 @@
 
 
 
-<h2 style="text-align:center"> Choose Person 1 Name </h2>  
+<div style="text-align:center"> Choose Person 1 Name </div>  
 <select id="T_name">
 <option value=""></option>
 <option value="">YUV VERDIA</option>
@@ -179,7 +178,7 @@
 </select>
 
 
-<h2 style="text-align:center"> Choose Person 2 Name </h2>  
+<div style="text-align:center"> Choose Person 2 Name </div>  
 <select id="T_name">
 <option value=""></option>
 <option value="">YUV VERDIA</option>
